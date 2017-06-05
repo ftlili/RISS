@@ -1,1 +1,22 @@
-Documentation
+To install Keras: 
+    brew install python3 (2.7 didn’t work)
+    python3 -m pip install keras
+
+
+To install TensorFlow:
+    python3 -m pip install --upgrade pip (upgrade pip)
+    python3 -m pip install TensorFlow
+    python3 -m pip install Theano
+
+
+to install numpy: 
+    install Anaconda for macOS (automatically installs numpy-mkl)
+    close the terminal and open it again (so it sets the PATH)
+
+
+to install scipy
+    python3 -m pip install scipy
+
+
+to install matplotlib
+    python3 -m pip install matpotlib
